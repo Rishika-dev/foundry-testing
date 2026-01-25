@@ -6,7 +6,7 @@
 
 - `forge test -vvvv`
 
-- `forge test --match-path src/test/fileName`
+- `forge test --match-path test/fileName`
 
 ## Help
 
